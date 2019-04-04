@@ -1,0 +1,75 @@
+{
+   "checksum": "59ff32688215f52cbd69a3541bf8f7b3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13167526684988206",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13167526684991061"
+            },
+            "name": "Tab 1",
+            "type": "url",
+	    "url": ""
+         }, {
+            "date_added": "13167526722192091",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13167526722194474"
+            },
+            "name": "Tab 2",
+            "type": "url",
+	    "url": ""
+         }, {
+            "date_added": "13167526784754312",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13167526784757938"
+            },
+            "name": "Tab 3",
+            "type": "url",
+	    "url": ""
+         }, {
+            "date_added": "13167526828575315",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13167526828578348"
+            },
+            "name": "Tab 4",
+            "type": "url",
+	    "url": ""
+         }, {
+            "date_added": "13167526828575315",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13167526828578348"
+            },
+            "name": "Tab 5",
+            "type": "url",
+	    "url": ""
+         } ],
+         "date_added": "13167526645298243",
+         "date_modified": "13167526828575315",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13167526645298252",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13167526645298254",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
